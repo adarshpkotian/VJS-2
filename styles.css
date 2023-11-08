@@ -154,4 +154,9 @@ button:hover{
         width: 22.5rem; 
         border-radius: 2rem;
     }
+    .circle:hover {
+  
+  background-color: var(--theOrange);
+
+}
 }
